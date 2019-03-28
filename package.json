@@ -12,13 +12,15 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/legendarybrij/liri-node-app/issues"
   },
   "homepage": "https://github.com/legendarybrij/liri-node-app#readme",
   "dependencies": {
     "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "fs": "0.0.1-security",
     "moment": "^2.24.0",
     "node-spotify-api": "^1.0.7"
   }
