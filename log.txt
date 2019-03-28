@@ -1,0 +1,1144 @@
+Command = concert-this
+Input = The Chainsmokers
+************************************************
+Event 1
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 03/29/2019
+************************************************
+Event 2
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 03/30/2019
+************************************************
+Event 3
+NAME: Vaiven  
+Location: Cuernavaca, , Mexico
+Date: 03/30/2019
+************************************************
+Event 4
+NAME: Ultra Music Festival Miami 
+Location: Miami, FL, United States
+Date: 03/31/2019
+************************************************
+Event 5
+NAME: STORY Nightclub
+Location: Miami Beach, FL, United States
+Date: 03/31/2019
+************************************************
+Event 6
+NAME: NCAA March Madness Music Fest AT&T Block Party
+Location: Minneapolis, MN, United States
+Date: 04/05/2019
+************************************************
+Event 7
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 04/05/2019
+************************************************
+Event 8
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 04/12/2019
+************************************************
+Event 9
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 04/19/2019
+************************************************
+Event 10
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 04/26/2019
+************************************************
+Event 11
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 04/28/2019
+************************************************
+Event 12
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 05/03/2019
+************************************************
+Event 13
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 05/05/2019
+************************************************
+Event 14
+NAME: XS Nightclub
+Location: Las Vegas, NV, United States
+Date: 05/10/2019
+************************************************
+Event 15
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 05/20/2019
+************************************************
+Event 16
+NAME: XS Nightclub
+Location: Las Vegas, NV, United States
+Date: 05/24/2019
+************************************************
+Event 17
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 05/25/2019
+************************************************
+Event 18
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 05/31/2019
+************************************************
+Event 19
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 06/02/2019
+************************************************
+Event 20
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 06/08/2019
+************************************************
+Event 21
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 06/09/2019
+************************************************
+Event 22
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 06/14/2019
+************************************************
+Event 23
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 06/22/2019
+************************************************
+Event 24
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 06/23/2019
+************************************************
+Event 25
+NAME: Tinderbox
+Location: Odense, , Denmark
+Date: 06/27/2019
+************************************************
+Event 26
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 06/28/2019
+************************************************
+Event 27
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 06/30/2019
+************************************************
+Event 28
+NAME: Eurockeenes Festival
+Location: Belfort, , France
+Date: 07/04/2019
+************************************************
+Event 29
+NAME: Balaton Sound Festival
+Location: Balaton, , Hungary
+Date: 07/05/2019
+************************************************
+Event 30
+NAME: Palmesus
+Location: Kristiansand, , Norway
+Date: 07/06/2019
+************************************************
+Event 31
+NAME: Atlas Weekend Festival
+Location: Kiev, , Ukraine
+Date: 07/11/2019
+************************************************
+Event 32
+NAME: Airbeat One Festival
+Location: Neustadt-glewe, , Germany
+Date: 07/13/2019
+Event 33
+************************************************
+NAME: Les Vieilles Charrues
+Location: Carhaix-plouguer, , France
+Date: 07/18/2019
+************************************************
+Event 34
+NAME: Tomorrowland
+Location: Boom, , Belgium
+Date: 07/19/2019
+************************************************
+Event 35
+NAME: Parookaville
+Location: Weeze, , Germany
+Date: 07/20/2019
+************************************************
+Event 36
+NAME: Tomorrowland
+Location: Boom, , Belgium
+Date: 07/26/2019
+************************************************
+Event 37
+NAME: Sands Steel Stage
+Location: Bethlehem, PA, United States
+Date: 08/02/2019
+************************************************
+Event 38
+NAME: Iowa State Fair Grandstand
+Location: Des Moines, IA, United States
+Date: 08/09/2019
+************************************************
+Event 39
+NAME: Summer Sonic at Maishama 
+Location: Osaka Prefecture, , Japan
+Date: 08/17/2019
+************************************************
+Event 40
+NAME: Summer Sonic at ZOZO Marine Stadium
+Location: Tokyo, , Japan
+Date: 08/18/2019
+************************************************
+Event 41
+NAME: US Bank Arena 
+Location: Cincinnati, Ohio, United States
+Date: 09/25/2019
+************************************************
+Event 42
+NAME: TD Garden 
+Location: Boston, Massachusetts, United States
+Date: 09/27/2019
+************************************************
+Event 43
+NAME: Mohegan Sun Arena
+Location: Uncasville, Conneticut, United States
+Date: 09/28/2019
+************************************************
+Event 44
+NAME: Bryce Jordan Center
+Location: State College, Pennsylvania, United States
+Date: 09/29/2019
+************************************************
+Event 45
+NAME: Little Caesars
+Location: Detroit, Michigan, United States
+Date: 10/03/2019
+************************************************
+Event 46
+NAME: United Center
+Location: Chicago, Illinois, United States
+Date: 10/04/2019
+************************************************
+Event 47
+NAME: Xcel Energy Center
+Location: St. Paul, Minnesota, United States
+Date: 10/05/2019
+************************************************
+Event 48
+NAME: Scotiabank Arena
+Location: Toronto, , Canada
+Date: 10/08/2019
+************************************************
+Event 49
+NAME: Bell Centre
+Location: Montreal, , Canada
+Date: 10/09/2019
+************************************************
+Event 50
+NAME: PPG Paints Arena
+Location: Pittsburgh, Pennsylvania, United States
+Date: 10/11/2019
+************************************************
+Event 51
+NAME: KeyBank Center
+Location: Buffalo, New York, United States
+Date: 10/12/2019
+************************************************
+Event 52
+NAME: Schottenstein Center
+Location: Columbus, Ohio, United States
+Date: 10/13/2019
+************************************************
+Event 53
+NAME: Capital One Arena
+Location: Washington, DC, United States
+Date: 10/15/2019
+************************************************
+Event 54
+NAME: Barclay's Center 
+Location: Brooklyn, New York, United States
+Date: 10/17/2019
+************************************************
+Event 55
+NAME: Bridgestone Arena
+Location: Nashville, TN, United States
+Date: 10/20/2019
+************************************************
+Event 56
+NAME: State Farm Arena
+Location: Atlanta, Georgia, United States
+Date: 10/22/2019
+************************************************
+Event 57
+NAME: AmericanAirlines Arena
+Location: Miami, Florida, United States
+Date: 10/24/2019
+************************************************
+Event 58
+NAME: Amalie Arena
+Location: Tampa, Florida, United States
+Date: 10/25/2019
+************************************************
+Event 59
+NAME: Amway Center
+Location: Orlando, Florida, United States
+Date: 10/26/2019
+************************************************
+Event 60
+NAME: Smoothie King Center
+Location: New Orleans, Louisiana, United States
+Date: 10/29/2019
+************************************************
+Event 61
+NAME: American Airlines Center
+Location: Dallas, Texas, United States
+Date: 10/31/2019
+************************************************
+Event 62
+NAME: Frank Erwin Center
+Location: Austin, Texas, United States
+Date: 11/01/2019
+************************************************
+Event 63
+NAME: Toyota Center
+Location: Houston, Texas, United States
+Date: 11/02/2019
+************************************************
+Event 64
+NAME: KFC! Yum Center
+Location: Louisville, Kentucky, United States
+Date: 11/06/2019
+************************************************
+Event 65
+NAME: Bankers Life Fieldhouse
+Location: Indianapolis, Indiana, United States
+Date: 11/07/2019
+************************************************
+Event 66
+NAME: Enterprise Center
+Location: Saint Louis, Missouri, United States
+Date: 11/08/2019
+************************************************
+Event 67
+NAME: Coliseum at Alliant Energy Center
+Location: Madison, Wisconsin, United States
+Date: 11/09/2019
+************************************************
+Event 68
+NAME: Fiserv Forum
+Location: Milwaukee, Wisconsin, United States
+Date: 11/12/2019
+************************************************
+Event 69
+NAME: Chesapeake Energy Center
+Location: Oklahoma City, Oklahoma, United States
+Date: 11/14/2019
+************************************************
+Event 70
+NAME: Sprint Center
+Location: Kansas City, Missouri, United States
+Date: 11/15/2019
+************************************************
+Event 71
+NAME: Intrust Bank Arena
+Location: Wichita, Kansas, United States
+Date: 11/16/2019
+************************************************
+Event 72
+NAME: Pepsi Center
+Location: Denver, Colorado, United States
+Date: 11/19/2019
+************************************************
+Event 73
+NAME: Vivint Smart Home Arena
+Location: Salt Lake City, Utah, United States
+Date: 11/21/2019
+************************************************
+Event 74
+NAME: Talking Stick Resort Arena
+Location: Phoenix, Arizona, United States
+Date: 11/23/2019
+************************************************
+Event 75
+NAME: Viejas Arena
+Location: San Diego, California, United States
+Date: 11/24/2019
+************************************************
+Event 76
+NAME: The Forum
+Location: Los Angeles, California, United States
+Date: 11/26/2019
+************************************************
+Event 77
+NAME: Chase Center
+Location: San Francisco, California, United States
+Date: 11/29/2019
+************************************************
+Event 78
+NAME: Golden 1 Center
+Location: Sacramento, California, United States
+Date: 12/01/2019
+************************************************
+Event 79
+NAME: Tacoma Dome
+Location: Tacoma, Washington, United States
+Date: 12/03/2019
+************************************************
+Event 80
+NAME: Moda Center
+Location: Portland, Oregon, United States
+Date: 12/05/2019
+************************************************
+Event 81
+NAME: Pepsi Live at Rogers Arena
+Location: Vancouver, , Canada
+Date: 12/06/2019
+
+-------THE End of the concert-this Command "The Chainsmokers"-------
+
+Command = spotify-this-song
+Input = wake me up when september ends
+**************************************************************************************************************************
+Song #1
+Artist NAME: "Green Day"
+Song NAME: Wake Me up When September Ends
+Preview-Link: https://p.scdn.co/mp3-preview/a83eedd6b982d4afdc2ceaeb458f471118ad78aa?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "American Idiot"
+**************************************************************************************************************************
+Song #2
+Artist NAME: "Green Day"
+Song NAME: Wake Me up When September Ends
+Preview-Link: https://p.scdn.co/mp3-preview/a83eedd6b982d4afdc2ceaeb458f471118ad78aa?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "American Idiot (Deluxe)"
+**************************************************************************************************************************
+Song #3
+Artist NAME: "Lance Allen"
+Song NAME: Wake Me Up When September Ends
+Preview-Link: https://p.scdn.co/mp3-preview/e8a624acfe9d188f1bca03602f803cab7e2f9c3b?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Wake Me Up When September Ends"
+**************************************************************************************************************************
+Song #4
+Artist NAME: "Green Day"
+Song NAME: Wake Me up When September Ends
+Preview-Link: https://p.scdn.co/mp3-preview/a83eedd6b982d4afdc2ceaeb458f471118ad78aa?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Greatest Hits: God's Favorite Band"
+**************************************************************************************************************************
+Song #5
+Artist NAME: "ROAM"
+Song NAME: Wake Me Up When September Ends
+Preview-Link: https://p.scdn.co/mp3-preview/7dc7566d8a32d86346014d8d6bd4555185c79a42?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Not Your American Idiots"
+**************************************************************************************************************************
+Song #6
+Artist NAME: "Sungha Jung"
+Song NAME: Wake Me up When September Ends
+Preview-Link: https://p.scdn.co/mp3-preview/ee223e02357c20701b37ec649476199b88186fac?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Perfect Blue"
+**************************************************************************************************************************
+Song #7
+Artist NAME: "Anthem Lights"
+Song NAME: Emo Medley: Sugar, We're Going Down / The Anthem / Wake Me up When September Ends / Move Along
+Preview-Link: https://p.scdn.co/mp3-preview/fcedf7f23e808a76272c4981ac4c6db37b7cf80e?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "We Got You Covered, Vol. 3"
+**************************************************************************************************************************
+Song #8
+Artist NAME: "Green Day"
+Song NAME: Wake Me up When September Ends - Live
+Preview-Link: https://p.scdn.co/mp3-preview/4aa3cb67a8f5ece474836f900c3e236c607a8a7e?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Bullet In A Bible"
+**************************************************************************************************************************
+Song #9
+Artist NAME: "Anthem Lights"
+Song NAME: Emo Medley: Sugar, We’re Going Down / The Anthem / Wake Me up When September Ends / Move Along / Black Parade
+Preview-Link: https://p.scdn.co/mp3-preview/fcedf7f23e808a76272c4981ac4c6db37b7cf80e?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Emo Medley: Sugar, We’re Going Down / The Anthem / Wake Me up When September Ends / Move Along / Black Parade"
+**************************************************************************************************************************
+Song #10
+Artist NAME: "Green Day"
+Song NAME: Wake Me Up When September Ends - feat. John Gallagher Jr., Michael Esper, Stark Sands, Company [Album Version]
+Preview-Link: https://p.scdn.co/mp3-preview/229bf053ea57f63a0f7b41151c77d5b956ee6ea9?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "The Original Broadway Cast Recording 'American Idiot' Featuring Green Day"
+**************************************************************************************************************************
+Song #11
+Artist NAME: "Vitamin String Quartet"
+Song NAME: Wake Me Up When September Ends
+Preview-Link: https://p.scdn.co/mp3-preview/77dd0fc095fdf2d0dc527875c30fe988c3fc9769?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Vitamin String Quartet Performs Green Day's American Idiot"
+**************************************************************************************************************************
+Song #12
+Artist NAME: "Marius Furche"
+Song NAME: Wake me up when september ends - Instrumental Mix
+Preview-Link: https://p.scdn.co/mp3-preview/4495d4c2776971e85a6b1aeb4ee95b0640a71281?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "piano cover"
+**************************************************************************************************************************
+Song #13
+Artist NAME: "Green Day"
+Song NAME: Wake Me up When September Ends - Live
+Preview-Link: https://p.scdn.co/mp3-preview/4bba00e2f2a30ebecb4bd8ffc40820b1bd286964?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Awesome As F**k (Deluxe)"
+**************************************************************************************************************************
+Song #14
+Artist NAME: "Kevin Simm"
+Song NAME: Wake Me Up When September Ends - Acoustic
+Preview-Link: https://p.scdn.co/mp3-preview/29b5b2c671d3fea766482d713663ed30288c7dd5?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Wake Me Up When September Ends (Acoustic)"
+**************************************************************************************************************************
+Song #15
+Artist NAME: "Kidz Bop Kids"
+Song NAME: Wake Me Up When September Ends
+Preview-Link: null
+ALBUM NAME: "Kidz Bop 9"
+**************************************************************************************************************************
+Song #16
+Artist NAME: "J.Fla"
+Song NAME: Wake Me Up When September Ends
+Preview-Link: https://p.scdn.co/mp3-preview/f0564826d3ffaa9944c7906c0558188164c32f92?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Rose"
+**************************************************************************************************************************
+Song #17
+Artist NAME: "Green Day"
+Song NAME: Wake Me up When September Ends - Live
+Preview-Link: https://p.scdn.co/mp3-preview/4bba00e2f2a30ebecb4bd8ffc40820b1bd286964?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Awesome As F**k"
+**************************************************************************************************************************
+Song #18
+Artist NAME: "David Sides"
+Song NAME: Wake Me Up When September Ends
+Preview-Link: https://p.scdn.co/mp3-preview/34a3128560acb22d4eb6f7851d9251a45fb31f42?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "The Collection, Vol. 3"
+**************************************************************************************************************************
+Song #19
+Artist NAME: "Scala & Kolacny Brothers"
+Song NAME: Wake Me Up When September Ends
+Preview-Link: https://p.scdn.co/mp3-preview/5da8ae2eba582f93d029be5450e865843607b8d3?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Solstice"
+**************************************************************************************************************************
+Song #20
+Artist NAME: "Sparrow Sleeps"
+Song NAME: Wake Me Up When September Ends
+Preview-Link: https://p.scdn.co/mp3-preview/23b254c13048d8eafd4bef9a9c0099f0eafb6d17?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Hypersomniac: Lullaby Renditions of Green Day Songs"
+
+-------THE End of the spotify-this-song Command "wake me up when september ends"-------
+
+Command = movie-this
+Input = scarface
+*******************************************************************************************************************************
+Movie Name: Scarface
+*******************************************************************************************************************************
+Released: 1983
+IMDB Rating: 8.3
+Rotten Tomatoes Rating: 81%
+Country or Countries Produced In: USA
+Language: English, Spanish
+Plot: In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+Cast: Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+*******************************************************************************************************************************
+
+-------THE End of the movie-this Command "scarface"-------
+
+Command = spotify-this-song
+Input = I Want it That Way
+**************************************************************************************************************************
+Song #1
+Artist NAME: "Backstreet Boys"
+Song NAME: I Want It That Way
+Preview-Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "The Hits--Chapter One"
+**************************************************************************************************************************
+Song #2
+Artist NAME: "Backstreet Boys"
+Song NAME: I Want It That Way
+Preview-Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Millennium"
+**************************************************************************************************************************
+Song #3
+Artist NAME: "Anthem Lights"
+Song NAME: I Want It That Way
+Preview-Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Covers Part IV"
+**************************************************************************************************************************
+Song #4
+Artist NAME: "Tyler and Mark"
+Song NAME: I Want It That Way
+Preview-Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Beautiful Dreams"
+**************************************************************************************************************************
+Song #5
+Artist NAME: "\"Weird Al\" Yankovic"
+Song NAME: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview-Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Poodle Hat"
+Song #6
+**************************************************************************************************************************
+Artist NAME: "Various Artists"
+Song NAME: I Want It That Way
+Preview-Link: null
+ALBUM NAME: "Punk Goes Pop"
+**************************************************************************************************************************
+Song #7
+Artist NAME: "Various Artists"
+Song NAME: I Want It That Way
+Preview-Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "90 Sweet 90s Hits!"
+**************************************************************************************************************************
+Song #8
+Artist NAME: "NKOTBSB"
+Song NAME: I Want It That Way
+Preview-Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "NKOTBSB"
+**************************************************************************************************************************
+Song #9
+Artist NAME: "Glee Cast"
+Song NAME: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview-Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Bye Bye Bye / I Want It That Way (Glee Cast Version)"
+**************************************************************************************************************************
+Song #10
+Artist NAME: "Boyce Avenue"
+Song NAME: I Want It That Way
+Preview-Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Cover Sessions, Vol. 2"
+**************************************************************************************************************************
+Song #11
+Artist NAME: "Steel Panther"
+Song NAME: I Want It That Way
+Preview-Link: null
+ALBUM NAME: "I Want It That Way"
+**************************************************************************************************************************
+Song #12
+Artist NAME: "Manuel Costa"
+Song NAME: I Want It That Way
+Preview-Link: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "I Want It That Way"
+**************************************************************************************************************************
+Song #13
+Artist NAME: "Various Artists"
+Song NAME: I Want It That Way
+Preview-Link: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Ballads in Bossa (The Colors of Love Ballads)"
+**************************************************************************************************************************
+Song #14
+Artist NAME: "Scary Pockets"
+Song NAME: I Want It That Way
+Preview-Link: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Nu Funk"
+**************************************************************************************************************************
+Song #15
+Artist NAME: "Nu Shooz"
+Song NAME: If That's the Way You Want It
+Preview-Link: https://p.scdn.co/mp3-preview/eff766f4ad36994de74f2f385d99f9b1355c6f2a?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "I Can't Wait: Collected"
+**************************************************************************************************************************
+Song #16
+Artist NAME: "Scott Bradlee's Postmodern Jukebox"
+Song NAME: I Want It That Way
+Preview-Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "Selfies on Kodachrome"
+**************************************************************************************************************************
+Song #17
+Artist NAME: "\"Weird Al\" Yankovic"
+Song NAME: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview-Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "The Essential \"Weird Al\" Yankovic"
+**************************************************************************************************************************
+Song #18
+Artist NAME: "Various Artists"
+Song NAME: I Want It That Way
+Preview-Link: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "NOW That's What I Call 90s Pop"
+**************************************************************************************************************************
+Song #19
+Artist NAME: "Kidz Bop Kids"
+Song NAME: I Want It That Way
+Preview-Link: null
+ALBUM NAME: "Kidz Bop"
+**************************************************************************************************************************
+Song #20
+Artist NAME: "#90s Update"
+Song NAME: I Want It That Way
+Preview-Link: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=7cdf127c34e84820b16bd93a0448afa1
+ALBUM NAME: "#90s Update"
+
+-------THE End of the spotify-this-song Command "I Want it That Way"-------
+
+Command = concert-this
+Input = Future
+************************************************
+Event 1
+NAME: Geneva Arena
+Location: Geneva, , Switzerland
+Date: 03/28/2019
+
+-------THE End of the concert-this Command "Future"-------
+
+Command = movie-this
+Input = The Lord Of The Rings
+*******************************************************************************************************************************
+Movie Name: The Lord of the Rings
+*******************************************************************************************************************************
+Released: 1978
+IMDB Rating: 6.2
+Rotten Tomatoes Rating: 52%
+Country or Countries Produced In: USA, UK, Spain
+Language: English, Sindarin
+Plot: The Fellowship of the Ring embark on a journey to destroy the One Ring and end Sauron's reign over Middle-earth.
+Cast: Christopher Guard, William Squire, Michael Scholes, John Hurt
+*******************************************************************************************************************************
+
+-------THE End of the movie-this Command "The Lord Of The Rings"-------
+
+Command = movie-this
+Input = Scarface
+*******************************************************************************************************************************
+Movie Name: Scarface
+*******************************************************************************************************************************
+Released: 1983
+IMDB Rating: 8.3
+Rotten Tomatoes Rating: 81%
+Country or Countries Produced In: USA
+Language: English, Spanish
+Plot: In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+Cast: Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+*******************************************************************************************************************************
+
+-------THE End of the movie-this Command "Scarface"-------
+
+Command = movie-this
+Input = The lord
+*******************************************************************************************************************************
+Movie Name: The Lord of the Rings: The Fellowship of the Ring
+*******************************************************************************************************************************
+Released: 2001
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 91%
+Country or Countries Produced In: New Zealand, USA
+Language: English, Sindarin
+Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Cast: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+*******************************************************************************************************************************
+
+-------THE End of the movie-this Command "The lord"-------
+
+Command = concert-this
+Input = The Chainsmokers
+************************************************
+Event 1
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 03/29/2019
+************************************************
+Event 2
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 03/30/2019
+************************************************
+Event 3
+NAME: Vaiven  
+Location: Cuernavaca, , Mexico
+Date: 03/30/2019
+************************************************
+Event 4
+NAME: Ultra Music Festival Miami 
+Location: Miami, FL, United States
+Date: 03/31/2019
+************************************************
+Event 5
+NAME: STORY Nightclub
+Location: Miami Beach, FL, United States
+Date: 03/31/2019
+************************************************
+Event 6
+NAME: NCAA March Madness Music Fest AT&T Block Party
+Location: Minneapolis, MN, United States
+Date: 04/05/2019
+************************************************
+Event 7
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 04/05/2019
+************************************************
+Event 8
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 04/12/2019
+************************************************
+Event 9
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 04/19/2019
+************************************************
+Event 10
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 04/26/2019
+************************************************
+Event 11
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 04/28/2019
+************************************************
+Event 12
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 05/03/2019
+************************************************
+Event 13
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 05/05/2019
+************************************************
+Event 14
+NAME: XS Nightclub
+Location: Las Vegas, NV, United States
+Date: 05/10/2019
+************************************************
+Event 15
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 05/20/2019
+************************************************
+Event 16
+NAME: XS Nightclub
+Location: Las Vegas, NV, United States
+Date: 05/24/2019
+************************************************
+Event 17
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 05/25/2019
+************************************************
+Event 18
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 05/31/2019
+************************************************
+Event 19
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 06/02/2019
+************************************************
+Event 20
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 06/08/2019
+************************************************
+Event 21
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 06/09/2019
+************************************************
+Event 22
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 06/14/2019
+************************************************
+Event 23
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 06/22/2019
+************************************************
+Event 24
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 06/23/2019
+************************************************
+Event 25
+NAME: Tinderbox
+Location: Odense, , Denmark
+Date: 06/27/2019
+************************************************
+Event 26
+NAME: XS Las Vegas
+Location: Las Vegas, NV, United States
+Date: 06/28/2019
+************************************************
+Event 27
+NAME: Encore Beach Club
+Location: Las Vegas, NV, United States
+Date: 06/30/2019
+************************************************
+Event 28
+NAME: Eurockeenes Festival
+Location: Belfort, , France
+Date: 07/04/2019
+************************************************
+Event 29
+NAME: Balaton Sound Festival
+Location: Balaton, , Hungary
+Date: 07/05/2019
+************************************************
+Event 30
+NAME: Palmesus
+Location: Kristiansand, , Norway
+Date: 07/06/2019
+************************************************
+Event 31
+NAME: Atlas Weekend Festival
+Location: Kiev, , Ukraine
+Date: 07/11/2019
+************************************************
+Event 32
+NAME: Airbeat One Festival
+Location: Neustadt-glewe, , Germany
+Date: 07/13/2019
+************************************************
+Event 33
+NAME: Les Vieilles Charrues
+Location: Carhaix-plouguer, , France
+Date: 07/18/2019
+************************************************
+Event 34
+NAME: Tomorrowland
+Location: Boom, , Belgium
+Date: 07/19/2019
+************************************************
+Event 35
+NAME: Parookaville
+Location: Weeze, , Germany
+Date: 07/20/2019
+************************************************
+Event 36
+NAME: Tomorrowland
+Location: Boom, , Belgium
+Date: 07/26/2019
+************************************************
+Event 37
+NAME: Sands Steel Stage
+Location: Bethlehem, PA, United States
+Date: 08/02/2019
+************************************************
+Event 38
+NAME: Iowa State Fair Grandstand
+Location: Des Moines, IA, United States
+Date: 08/09/2019
+************************************************
+Event 39
+NAME: Summer Sonic at Maishama 
+Location: Osaka Prefecture, , Japan
+Date: 08/17/2019
+************************************************
+Event 40
+NAME: Summer Sonic at ZOZO Marine Stadium
+Location: Tokyo, , Japan
+Date: 08/18/2019
+************************************************
+Event 41
+NAME: US Bank Arena 
+Location: Cincinnati, Ohio, United States
+Date: 09/25/2019
+************************************************
+Event 42
+NAME: TD Garden 
+Location: Boston, Massachusetts, United States
+Date: 09/27/2019
+************************************************
+Event 43
+NAME: Mohegan Sun Arena
+Location: Uncasville, Conneticut, United States
+Date: 09/28/2019
+************************************************
+Event 44
+NAME: Bryce Jordan Center
+Location: State College, Pennsylvania, United States
+Date: 09/29/2019
+************************************************
+Event 45
+NAME: Little Caesars
+Location: Detroit, Michigan, United States
+Date: 10/03/2019
+************************************************
+Event 46
+NAME: United Center
+Location: Chicago, Illinois, United States
+Date: 10/04/2019
+************************************************
+Event 47
+NAME: Xcel Energy Center
+Location: St. Paul, Minnesota, United States
+Date: 10/05/2019
+************************************************
+Event 48
+NAME: Scotiabank Arena
+Location: Toronto, , Canada
+Date: 10/08/2019
+************************************************
+Event 49
+NAME: Bell Centre
+Location: Montreal, , Canada
+Date: 10/09/2019
+************************************************
+Event 50
+NAME: PPG Paints Arena
+Location: Pittsburgh, Pennsylvania, United States
+Date: 10/11/2019
+************************************************
+Event 51
+NAME: KeyBank Center
+Location: Buffalo, New York, United States
+Date: 10/12/2019
+************************************************
+Event 52
+NAME: Schottenstein Center
+Location: Columbus, Ohio, United States
+Date: 10/13/2019
+************************************************
+Event 53
+NAME: Capital One Arena
+Location: Washington, DC, United States
+Date: 10/15/2019
+************************************************
+Event 54
+NAME: Barclay's Center 
+Location: Brooklyn, New York, United States
+Date: 10/17/2019
+************************************************
+Event 55
+NAME: Bridgestone Arena
+Location: Nashville, TN, United States
+Date: 10/20/2019
+************************************************
+Event 56
+NAME: State Farm Arena
+Location: Atlanta, Georgia, United States
+Date: 10/22/2019
+************************************************
+Event 57
+NAME: AmericanAirlines Arena
+Location: Miami, Florida, United States
+Date: 10/24/2019
+************************************************
+Event 58
+NAME: Amalie Arena
+Location: Tampa, Florida, United States
+Date: 10/25/2019
+************************************************
+Event 59
+NAME: Amway Center
+Location: Orlando, Florida, United States
+Date: 10/26/2019
+************************************************
+Event 60
+NAME: Smoothie King Center
+Location: New Orleans, Louisiana, United States
+Date: 10/29/2019
+************************************************
+Event 61
+NAME: American Airlines Center
+Location: Dallas, Texas, United States
+Date: 10/31/2019
+************************************************
+Event 62
+NAME: Frank Erwin Center
+Location: Austin, Texas, United States
+Date: 11/01/2019
+************************************************
+Event 63
+NAME: Toyota Center
+Location: Houston, Texas, United States
+Date: 11/02/2019
+************************************************
+Event 64
+NAME: KFC! Yum Center
+Location: Louisville, Kentucky, United States
+Date: 11/06/2019
+************************************************
+Event 65
+NAME: Bankers Life Fieldhouse
+Location: Indianapolis, Indiana, United States
+Date: 11/07/2019
+************************************************
+Event 66
+NAME: Enterprise Center
+Location: Saint Louis, Missouri, United States
+Date: 11/08/2019
+************************************************
+Event 67
+NAME: Coliseum at Alliant Energy Center
+Location: Madison, Wisconsin, United States
+Date: 11/09/2019
+************************************************
+Event 68
+NAME: Fiserv Forum
+Location: Milwaukee, Wisconsin, United States
+Date: 11/12/2019
+************************************************
+Event 69
+NAME: Chesapeake Energy Center
+Location: Oklahoma City, Oklahoma, United States
+Date: 11/14/2019
+************************************************
+Event 70
+NAME: Sprint Center
+Location: Kansas City, Missouri, United States
+Date: 11/15/2019
+************************************************
+Event 71
+NAME: Intrust Bank Arena
+Location: Wichita, Kansas, United States
+Date: 11/16/2019
+************************************************
+Event 72
+NAME: Pepsi Center
+Location: Denver, Colorado, United States
+Date: 11/19/2019
+************************************************
+Event 73
+NAME: Vivint Smart Home Arena
+Location: Salt Lake City, Utah, United States
+Date: 11/21/2019
+************************************************
+Event 74
+NAME: Talking Stick Resort Arena
+Location: Phoenix, Arizona, United States
+Date: 11/23/2019
+************************************************
+Event 75
+NAME: Viejas Arena
+Location: San Diego, California, United States
+Date: 11/24/2019
+************************************************
+Event 76
+NAME: The Forum
+Location: Los Angeles, California, United States
+Date: 11/26/2019
+************************************************
+Event 77
+NAME: Chase Center
+Location: San Francisco, California, United States
+Date: 11/29/2019
+************************************************
+Event 78
+NAME: Golden 1 Center
+Location: Sacramento, California, United States
+Date: 12/01/2019
+************************************************
+Event 79
+NAME: Tacoma Dome
+Location: Tacoma, Washington, United States
+Date: 12/03/2019
+************************************************
+Event 80
+NAME: Moda Center
+Location: Portland, Oregon, United States
+Date: 12/05/2019
+************************************************
+Event 81
+NAME: Pepsi Live at Rogers Arena
+Location: Vancouver, , Canada
+Date: 12/06/2019
+
+-------THE End of the concert-this Command "The Chainsmokers"-------
+

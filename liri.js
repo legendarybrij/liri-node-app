@@ -206,12 +206,15 @@ for(let i=0; i<array.length;i++)
     break;
     case "spotify-this-song":
     spotifyThisSong();
+    console.log("Your log.txt is updated");
     break;
     case "movie-this":
     movieThis();
+    console.log("Your log.txt is updated");
     break;
     case "do-what-it-says": 
     doWhatItSays(); 
+    console.log("Your log.txt is updated");
     break;
 
   }
