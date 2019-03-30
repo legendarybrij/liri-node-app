@@ -27,6 +27,8 @@ If the user doesn't type a movie in, the program will output data for the movie 
 LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt . Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
+5) Every command you type on terminal and its output will be saved in log.txt file
+
 1) Testing for Concert-This: https://youtu.be/MdKqc37dilg
 2) Testing for Spotify-This-Song: https://youtu.be/AwTsnfRoOJ0
 3) Testing for Movie-This: https://youtu.be/_7T6Ptgvy8c
