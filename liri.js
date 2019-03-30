@@ -54,12 +54,12 @@ if(value==="")
 {
     value="The+Sign";
 }
-spotify.search({ type: 'track', query: value, limit: "20" }, function(err, data) {
+spotify.search({ type: 'track', query: value, limit: "6" }, function(err, data) {
   if (err) {
     return console.log('Error occurred: ' + err);
   }
   writeCommand();
-//console.log(JSON.stringify(data.tracks.items[0],null,3)); 
+//console.log(JSON.stringify(data.tracks,null,3)); 
 for(let i in data.tracks.items)
     {   
         let lines =[];
